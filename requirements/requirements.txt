@@ -1,0 +1,13 @@
+python3 modules:
+      os
+      socket
+      termcolor
+      pyfiglet
+      random
+
+linux tools:
+      rar
+      wine
+      In wine:
+          install python3
+          install python modules: pyinstaller, pillow, platform, time, base64, cryptography, pynput, numpy, opencv-python, pyautogui, thread6, shutil, tqdm, tempfile
